@@ -1,6 +1,6 @@
 public with sharing class SampleClass2 {
     public SampleClass() {
-        //Demo2 Commit test1667
+        //Demo2 Commit 
 
     }
 }
